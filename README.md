@@ -8,7 +8,7 @@ $ brew install stow
 
 clone into $HOME
 ```
-$ git clone https://github.com/iamareyes/dotfiles/
+$ git clone git@github.com:iamareyes/dotfiles.git
 ```
 
 ```
